@@ -1,16 +1,13 @@
-## Hi there 👋
+ ## Olá👋
 
-<!--
-**LucasLima015/LucasLima015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Me chamo Lucas L.** :sparkles:
 
-Here are some ideas to get you started:
+ Abaixo estão algumas coisas que estou fazendo atualmente:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Fazendo curso da wizzard
+
+-Fazendo o curso do Alura
+
+Utilizarei esse espaço para estudo e anotaçoẽs
+
+!(https://tenor.com/pt-BR/view/yau-gif-7404729492651026490) --->
