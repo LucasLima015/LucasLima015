@@ -1,12 +1,12 @@
  ## Olá👋
 
-**Me chamo Lucas L.** :sparkles:
+✨**Me chamo Lucas L.** :sparkles:
 
- Abaixo estão algumas coisas que estou fazendo atualmente:
+ Abaixo estão algumas coisas que estou fazendo atualmente📖:
 
--Fazendo curso da wizzard
+- Fazendo curso da wizzard
 
--Fazendo o curso do Alura
+- Fazendo o curso do Alura
 
 Utilizarei esse espaço para estudo e anotaçoẽs
 
